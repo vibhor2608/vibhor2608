@@ -9,7 +9,8 @@
 [![Email](https://img.shields.io/badge/Email-Say_hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vibhormittal26@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@vib__826-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vib_826/)
 
-<img src="https://komarev.com/ghpvc/?username=vibhor2608&label=PROFILE+VIEWS&color=7c3aed&style=flat-square" alt="profile views"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-4ade80?style=flat-square" alt="open to work"/>
+<img src="https://img.shields.io/github/followers/vibhor2608?style=flat-square&color=7c3aed&label=FOLLOWERS" alt="followers"/>
 
 </div>
 
